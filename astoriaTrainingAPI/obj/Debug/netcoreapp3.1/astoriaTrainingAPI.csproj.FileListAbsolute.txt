@@ -1,0 +1,6 @@
+D:\astoriaTraining8.0\astoriaTrainingAPI\astoriaTrainingAPI\obj\Debug\netcoreapp3.1\astoriaTrainingAPI.csproj.AssemblyReference.cache
+D:\astoriaTraining8.0\astoriaTrainingAPI\astoriaTrainingAPI\obj\Debug\netcoreapp3.1\astoriaTrainingAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\astoriaTraining8.0\astoriaTrainingAPI\astoriaTrainingAPI\obj\Debug\netcoreapp3.1\astoriaTrainingAPI.AssemblyInfoInputs.cache
+D:\astoriaTraining8.0\astoriaTrainingAPI\astoriaTrainingAPI\obj\Debug\netcoreapp3.1\astoriaTrainingAPI.AssemblyInfo.cs
+D:\astoriaTraining8.0\astoriaTrainingAPI\astoriaTrainingAPI\obj\Debug\netcoreapp3.1\astoriaTrainingAPI.csproj.CoreCompileInputs.cache
+D:\astoriaTraining8.0\astoriaTrainingAPI\astoriaTrainingAPI\obj\Debug\netcoreapp3.1\astoriaTrainingAPI.MvcApplicationPartsAssemblyInfo.cache
